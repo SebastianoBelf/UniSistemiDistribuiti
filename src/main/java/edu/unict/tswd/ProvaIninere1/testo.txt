@@ -1,0 +1,5 @@
+ServerA: Crea un server che accetta la connessione da parte di un client e scriva la risposta in OUT;
+ServerB: manda la risposta al crient
+ServerC: implementare la funzione int conta_vocali(s) che restituisce 1 per ogni stringa ricevuta dal client e invia la risposta (cioe 1 .tostring) al client
+ServerD: conta le vocali delle stringhe ricevute dal client e manda la risposta al server.
+ClientE: realizzare un semplice client
