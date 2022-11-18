@@ -21,7 +21,7 @@ public class EchoClient {
 
         try {
             // Create socket
-            socket = new Socket(addr, EchoServer.PORT);
+            socket = new Socket(addr, 4242);
             System.out.println("EchoClient: started");
             System.out.println("Client Socket: " + socket);
 

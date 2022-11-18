@@ -15,7 +15,7 @@ public class LineUtility {
         BufferedReader in = null;
         // associazione di uno stream di input al file da cui estrarre le linee
         try {
-            in = new BufferedReader(new FileReader("resources/"+nomeFile));
+            in = new BufferedReader(new FileReader(nomeFile));
             System.out.println("File aperto: "+nomeFile);
         } 
         catch (FileNotFoundException e) {

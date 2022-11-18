@@ -35,13 +35,13 @@ public class Driver {
                 }
             }
         });
-
+        prodCons.finished = true;
         // Dopo che tutti i produttori hanno finito, notifico i consumatori.
         // Questi consumeranno tutti i prodotti e dopo termineranno.
-        threads.forEach(thread -> {
-            if (thread instanceof Consumer)
-                thread.interrupt();
-        });
+//        threads.forEach(thread -> {
+//            if (thread instanceof Consumer)
+//                thread.interrupt();
+//        });
 
     }
 }

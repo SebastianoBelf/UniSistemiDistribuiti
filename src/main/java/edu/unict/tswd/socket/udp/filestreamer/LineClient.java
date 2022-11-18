@@ -65,6 +65,7 @@ public class LineClient {
     	      
                 // creazione e invio del pacchetto
                 try{
+                   // DatagramPacket p = new DatagramPacket(richiesta.getBytes(),richiesta.getBytes().length,addr,PORT);
                     DatagramPacket packetOUT = DatagramUtility.buildPacket(addr, PORT, richiesta);
                     socket.send(packetOUT);
                     System.out.println("Richiesta inviata a "+addr+", "+PORT);
@@ -92,7 +93,7 @@ public class LineClient {
                     // il client continua l'esecuzione riprendendo dall'inizio del ciclo
                 }
 
-                String risposta = new String(packetIN.getData());
+                String risposta = new String(packetIN.getData(),0, packetIN.getLength());
                 System.out.println("Risposta: " + risposta);
 
                 // tutto ok, pronto per nuova richiesta

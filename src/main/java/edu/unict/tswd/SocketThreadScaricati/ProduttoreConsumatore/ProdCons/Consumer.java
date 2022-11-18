@@ -25,7 +25,7 @@ public class Consumer extends Thread {
                 // Qui ricevo una sorta di "notifica" dal main che la creazione di
                 // prodotti è terminata.
                 System.out.println(getName() + " svegliato!");
-                prodCons.finished = true;
+                //prodCons.finished = true;
             }
 
             int val = prodCons.remove();

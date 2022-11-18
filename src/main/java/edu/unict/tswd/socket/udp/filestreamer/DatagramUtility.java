@@ -18,6 +18,7 @@ public class DatagramUtility {
         ByteArrayOutputStream boStream = new ByteArrayOutputStream();
         DataOutputStream doStream = new DataOutputStream(boStream);
         doStream.writeUTF(msg);
+        msg.getBytes();
         byte[] data = boStream.toByteArray();
         return new DatagramPacket(data, data.length, addr, port);
         // per la creazione di un pacchetto da inviare e' necessario usare il costruttore con destinatario

@@ -1,7 +1,6 @@
 package edu.unict.tswd.Personali.ProdCons;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Magazzino {
     ArrayList<Prodotto> prodotti;

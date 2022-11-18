@@ -63,7 +63,7 @@ public class LineServer {
                 } 
                 // preparazione della linea e invio della risposta      
                 try{          
-                    String linea =  LineUtility.getLine(nomeFile, numLinea);
+                    String linea =  LineUtility.getLine("src/main/java/edu/unict/tswd/socket/udp/filestreamer/"+nomeFile, numLinea);
                     byte[] data = new byte[256];
                     data = linea.getBytes();
                     packet = new DatagramPacket(data, data.length, mittAddr, mittPort);

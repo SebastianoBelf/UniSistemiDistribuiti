@@ -5,12 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb672cf0-45fa-4b87-a826-31e78dfa4d4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Consumatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Magazzino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Prodotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Produttori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ServerA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ServerAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ServerB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ServerC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/SharedArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ThreadTD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/Itinere2018/ThreadTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/NetSix/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/NetSix/NetSixServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/NetSix/OffertaAbbonati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ServerDepositaRitira/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/String/Stringhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/udp/udpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ThreadShared/GenerateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ThreadShared/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ThreadShared/SharedArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/ciao.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Magazzino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/Personali/ProdCons/Magazzino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ProduttoreConsumatore/ProdCons/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ProduttoreConsumatore/ProdCons/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ProduttoreConsumatore/ProdCons/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/SocketThreadScaricati/ProduttoreConsumatore/ProdCons/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/tcp/echoserver/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/tcp/echoserver/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/DatagramUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/DatagramUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/unict/tswd/socket/udp/filestreamer/LineUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,36 +68,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/IntelliJIDeaProject/JavaProjects/UniSistemiDistribuiti",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Subversion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sebas\IdeaProjects\UniSistemiDistribuiti\src\main\java\edu\unict\tswd\SocketThreadScaricati\Shared" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.edu.unict.tswd.Personali.ProdCons.Main">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.SocketThreadScaricati.ProduttoreConsumatore.ProdCons.Driver" />
+  <component name="RunManager" selected="Application.LineClient">
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.socket.tcp.echoserver.EchoClient" />
       <module name="UniSistemiDistribuiti" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.unict.tswd.SocketThreadScaricati.ProduttoreConsumatore.ProdCons.*" />
+          <option name="PATTERN" value="edu.unict.tswd.socket.tcp.echoserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.SocketThreadScaricati.Main" />
+    <configuration name="LineClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.socket.udp.filestreamer.LineClient" />
       <module name="UniSistemiDistribuiti" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.unict.tswd.SocketThreadScaricati.*" />
+          <option name="PATTERN" value="edu.unict.tswd.socket.udp.filestreamer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.unict.tswd.Personali.ProdCons.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.Personali.ProdCons.Main" />
+    <configuration name="LineServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.socket.udp.filestreamer.LineServer" />
       <module name="UniSistemiDistribuiti" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.unict.tswd.Personali.ProdCons.*" />
+          <option name="PATTERN" value="edu.unict.tswd.socket.udp.filestreamer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.thread.hellothread.hello" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.Personali.ServerDepositaRitira.Server" />
       <module name="UniSistemiDistribuiti" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.unict.tswd.thread.hellothread.*" />
+          <option name="PATTERN" value="edu.unict.tswd.Personali.ServerDepositaRitira.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.thread.pc.test" />
+    <configuration name="edu.unict.tswd.socket.udp.filestreamer.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.unict.tswd.socket.udp.filestreamer.Server" />
       <module name="UniSistemiDistribuiti" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.unict.tswd.thread.pc.*" />
+          <option name="PATTERN" value="edu.unict.tswd.socket.udp.filestreamer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,17 +158,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.edu.unict.tswd.Personali.ProdCons.Main" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.hello" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.LineClient" />
+        <item itemvalue="Application.LineServer" />
+        <item itemvalue="Application.edu.unict.tswd.socket.udp.filestreamer.Server" />
+        <item itemvalue="Application.EchoClient" />
+        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration>C:\Users\sebyl\AppData\Roaming\Subversion</configuration>
+    <configuration>C:\Users\sebas\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -160,9 +182,8 @@
       <workItem from="1668088648445" duration="1530000" />
       <workItem from="1668102681894" duration="88000" />
       <workItem from="1668106370750" duration="8927000" />
-      <workItem from="1668177846757" duration="690000" />
-      <workItem from="1668607606524" duration="930000" />
-      <workItem from="1668609399493" duration="4830000" />
+      <workItem from="1668734278218" duration="363000" />
+      <workItem from="1668759935670" duration="8127000" />
     </task>
     <servers />
   </component>
